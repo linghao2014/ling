@@ -1,8 +1,8 @@
 {
   "name": "superl",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "this is a first module for test",
-  "main": "index.js",
+  "main": "./js/a.js",
   "scripts": {
     "test": "make test"
   },
